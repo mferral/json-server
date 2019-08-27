@@ -25,6 +25,35 @@
       "postId": 1
     }
   ],
+  "beers": [
+    {
+      "id": 1,
+      "name": "Cucapá Border",
+      "estilo": "Amber and Pale Ales",
+      "color": "Ámbar",
+      "alcohol": "4.5%",
+      "pais": "México",
+      "url": "https://cdn.shopify.com/s/files/1/1176/1532/products/thumbnail_pLp_cucapa-BORDER_1024x1024.jpg?v=1565384200"
+    },
+    {
+      "id": 2,
+      "name": "Hoegaarden",
+      "estilo": "Wheat Beers",
+      "color": "Pajizo",
+      "alcohol": "4.9%",
+      "pais": "Bélgica",
+      "url": "https://cdn.shopify.com/s/files/1/1176/1532/products/Thumbnail-PDP-_HoegaardenW_1024x1024.jpg?v=1535502544"
+    },
+    {
+      "id": 3,
+      "name": "Shiner Light Blonde",
+      "estilo": "Lager",
+      "color": "Dorado",
+      "alcohol": "4.2%",
+      "pais": "Estados Unidos",
+      "url": "https://cdn.shopify.com/s/files/1/1176/1532/products/Thumbnail500-shiner_light_blonde_1024x1024.jpg?v=1535395752"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
