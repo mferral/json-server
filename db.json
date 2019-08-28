@@ -3,17 +3,17 @@
     {
       "id": 1,
       "title": "Post 1",
-      "decription": "Description 1"
+      "description": "Description 1"
     },
     {
       "id": 2,
       "title": "Post 2",
-      "decription": "Description 2"
+      "description": "Description 2"
     },
     {
       "id": 3,
       "title": "Post 3",
-      "decription": "Description 3"
+      "description": "Description 3"
     }
   ],
   "comments": [
